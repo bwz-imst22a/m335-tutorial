@@ -1,5 +1,9 @@
 {
-    "recommendations": [
-        "ionic.ionic"
-    ]
+  "recommendations": [
+    "Vue.volar",
+    "WebNative.webnative",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "PKief.material-icon-theme"
+  ]
 }
